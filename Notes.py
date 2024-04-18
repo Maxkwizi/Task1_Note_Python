@@ -70,7 +70,7 @@ def read_all_notes():
         print(f"Дата/время: {note[3]}")
         print()
     
-    
+
 # Метод для редактирования заметки
 def edit_note():
     print()
